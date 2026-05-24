@@ -1,0 +1,297 @@
+{
+  "direction": "NEUTRAL",
+  "score": 35,
+  "since": null,
+  "last_alerted_ts": 1779563705.656177,
+  "last_alerted_dir": "NEUTRAL",
+  "history": [
+    {
+      "time": "2026-05-23 08:34 UTC",
+      "direction": "LONG",
+      "price": 74487.8,
+      "score": 65,
+      "rsi14": 7.56,
+      "sk": 32.72
+    },
+    {
+      "time": "2026-05-23 08:34 UTC",
+      "direction": "LONG",
+      "price": 74487.8,
+      "score": 73,
+      "rsi14": 7.56,
+      "sk": 32.72
+    },
+    {
+      "time": "2026-05-23 08:45 UTC",
+      "direction": "LONG",
+      "price": 74420.0,
+      "score": 55,
+      "rsi14": 7.33,
+      "sk": 28.72
+    },
+    {
+      "time": "2026-05-23 09:00 UTC",
+      "direction": "LONG",
+      "price": 74636.8,
+      "score": 75,
+      "rsi14": 19.81,
+      "sk": 17.81
+    },
+    {
+      "time": "2026-05-23 13:02 UTC",
+      "direction": "NEUTRAL",
+      "price": 74839.9,
+      "score": 0,
+      "rsi14": 60.2,
+      "sk": 33.28
+    },
+    {
+      "time": "2026-05-23 13:04 UTC",
+      "direction": "NEUTRAL",
+      "price": 74913.4,
+      "score": 15,
+      "rsi14": 64.05,
+      "sk": 33.28
+    },
+    {
+      "time": "2026-05-23 13:05 UTC",
+      "direction": "NEUTRAL",
+      "price": 74869.6,
+      "score": 15,
+      "rsi14": 61.85,
+      "sk": 33.28
+    },
+    {
+      "time": "2026-05-23 13:15 UTC",
+      "direction": "SHORT",
+      "price": 74911.1,
+      "score": 40,
+      "rsi14": 71.31,
+      "sk": 46.7
+    },
+    {
+      "time": "2026-05-23 13:30 UTC",
+      "direction": "NEUTRAL",
+      "price": 74960.0,
+      "score": 35,
+      "rsi14": 69.54,
+      "sk": 77.7
+    },
+    {
+      "time": "2026-05-23 13:45 UTC",
+      "direction": "NEUTRAL",
+      "price": 74905.1,
+      "score": 50,
+      "rsi14": 64.07,
+      "sk": 87.12
+    },
+    {
+      "time": "2026-05-23 14:00 UTC",
+      "direction": "SHORT",
+      "price": 75188.1,
+      "score": 70,
+      "rsi14": 74.18,
+      "sk": 75.4
+    },
+    {
+      "time": "2026-05-23 14:15 UTC",
+      "direction": "SHORT",
+      "price": 75169.9,
+      "score": 95,
+      "rsi14": 77.94,
+      "sk": 90.88
+    },
+    {
+      "time": "2026-05-23 14:30 UTC",
+      "direction": "SHORT",
+      "price": 75284.7,
+      "score": 103,
+      "rsi14": 78.96,
+      "sk": 88.62
+    },
+    {
+      "time": "2026-05-23 14:45 UTC",
+      "direction": "SHORT",
+      "price": 75424.9,
+      "score": 90,
+      "rsi14": 80.3,
+      "sk": 94.5
+    },
+    {
+      "time": "2026-05-23 15:00 UTC",
+      "direction": "SHORT",
+      "price": 75495.1,
+      "score": 90,
+      "rsi14": 86.57,
+      "sk": 97.56
+    },
+    {
+      "time": "2026-05-23 15:15 UTC",
+      "direction": "SHORT",
+      "price": 75572.4,
+      "score": 95,
+      "rsi14": 85.81,
+      "sk": 84.34
+    },
+    {
+      "time": "2026-05-23 15:30 UTC",
+      "direction": "SHORT",
+      "price": 75500.0,
+      "score": 105,
+      "rsi14": 85.52,
+      "sk": 94.93
+    },
+    {
+      "time": "2026-05-23 15:45 UTC",
+      "direction": "SHORT",
+      "price": 75464.6,
+      "score": 85,
+      "rsi14": 82.54,
+      "sk": 85.2
+    },
+    {
+      "time": "2026-05-23 16:00 UTC",
+      "direction": "SHORT",
+      "price": 75492.9,
+      "score": 65,
+      "rsi14": 83.4,
+      "sk": 80.26
+    },
+    {
+      "time": "2026-05-23 16:15 UTC",
+      "direction": "SHORT",
+      "price": 75497.9,
+      "score": 65,
+      "rsi14": 83.02,
+      "sk": 82.44
+    },
+    {
+      "time": "2026-05-23 16:30 UTC",
+      "direction": "SHORT",
+      "price": 75442.9,
+      "score": 65,
+      "rsi14": 75.6,
+      "sk": 83.08
+    },
+    {
+      "time": "2026-05-23 16:45 UTC",
+      "direction": "NEUTRAL",
+      "price": 75469.1,
+      "score": 30,
+      "rsi14": 74.77,
+      "sk": 73.24
+    },
+    {
+      "time": "2026-05-23 17:00 UTC",
+      "direction": "SHORT",
+      "price": 75409.6,
+      "score": 50,
+      "rsi14": 73.74,
+      "sk": 76.68
+    },
+    {
+      "time": "2026-05-23 17:15 UTC",
+      "direction": "NEUTRAL",
+      "price": 75432.6,
+      "score": 15,
+      "rsi14": 65.78,
+      "sk": 66.38
+    },
+    {
+      "time": "2026-05-23 17:30 UTC",
+      "direction": "NEUTRAL",
+      "price": 75443.4,
+      "score": 15,
+      "rsi14": 67.39,
+      "sk": 60.8
+    },
+    {
+      "time": "2026-05-23 17:45 UTC",
+      "direction": "NEUTRAL",
+      "price": 75391.7,
+      "score": 15,
+      "rsi14": 57.4,
+      "sk": 57.62
+    },
+    {
+      "time": "2026-05-23 18:00 UTC",
+      "direction": "NEUTRAL",
+      "price": 75452.8,
+      "score": 15,
+      "rsi14": 51.8,
+      "sk": 35.2
+    },
+    {
+      "time": "2026-05-23 18:15 UTC",
+      "direction": "NEUTRAL",
+      "price": 75707.1,
+      "score": 25,
+      "rsi14": 62.97,
+      "sk": 38.76
+    },
+    {
+      "time": "2026-05-23 18:30 UTC",
+      "direction": "NEUTRAL",
+      "price": 75810.9,
+      "score": 15,
+      "rsi14": 62.74,
+      "sk": 68.48
+    },
+    {
+      "time": "2026-05-23 18:45 UTC",
+      "direction": "SHORT",
+      "price": 75862.1,
+      "score": 75,
+      "rsi14": 73.25,
+      "sk": 84.39
+    },
+    {
+      "time": "2026-05-23 19:00 UTC",
+      "direction": "SHORT",
+      "price": 75818.6,
+      "score": 75,
+      "rsi14": 72.69,
+      "sk": 79.62
+    },
+    {
+      "time": "2026-05-23 19:15 UTC",
+      "direction": "NEUTRAL",
+      "price": 75786.8,
+      "score": 15,
+      "rsi14": 68.42,
+      "sk": 72.75
+    },
+    {
+      "time": "2026-05-24 03:45 UTC",
+      "direction": "NEUTRAL",
+      "price": 76719.0,
+      "score": 15,
+      "rsi14": 53.12,
+      "sk": 72.53
+    },
+    {
+      "time": "2026-05-24 03:45 UTC",
+      "direction": "NEUTRAL",
+      "price": 76748.6,
+      "score": 15,
+      "rsi14": 54.48,
+      "sk": 72.53
+    },
+    {
+      "time": "2026-05-24 03:55 UTC",
+      "direction": "NEUTRAL",
+      "price": 76753.1,
+      "score": 15,
+      "rsi14": 54.68,
+      "sk": 72.53
+    },
+    {
+      "time": "2026-05-24 04:00 UTC",
+      "direction": "NEUTRAL",
+      "price": 76748.0,
+      "score": 35,
+      "rsi14": 52.18,
+      "sk": 20.87
+    }
+  ]
+}
