@@ -1,7 +1,7 @@
 {
   "direction": "LONG",
-  "score": 45,
-  "since": "2026-05-25 21:35 UTC",
+  "score": 40,
+  "since": "2026-05-25 22:43 UTC",
   "last_alerted_ts": 1779744953.120758,
   "last_alerted_dir": "LONG",
   "history": [
@@ -476,6 +476,14 @@
       "score": 45,
       "rsi14": 27.83,
       "sk": 37.77
+    },
+    {
+      "time": "2026-05-25 22:43 UTC",
+      "direction": "LONG",
+      "price": 77127.7,
+      "score": 40,
+      "rsi14": 29.46,
+      "sk": 60.1
     }
   ]
 }
