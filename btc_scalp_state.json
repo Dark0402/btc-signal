@@ -1,6 +1,6 @@
 {
   "direction": "NEUTRAL",
-  "score": 28,
+  "score": 15,
   "since": null,
   "last_alerted_ts": 1779706300.042421,
   "last_alerted_dir": "NEUTRAL",
@@ -444,6 +444,14 @@
       "score": 28,
       "rsi14": 48.37,
       "sk": 24.75
+    },
+    {
+      "time": "2026-05-25 16:34 UTC",
+      "direction": "NEUTRAL",
+      "price": 77564.0,
+      "score": 15,
+      "rsi14": 65.05,
+      "sk": 36.75
     }
   ]
 }
