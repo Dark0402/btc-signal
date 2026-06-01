@@ -8,14 +8,6 @@
     {
       "time": "2026-05-24 03:45 UTC",
       "direction": "NEUTRAL",
-      "price": 76719.0,
-      "score": 15,
-      "rsi14": 53.12,
-      "sk": 72.53
-    },
-    {
-      "time": "2026-05-24 03:45 UTC",
-      "direction": "NEUTRAL",
       "price": 76748.6,
       "score": 15,
       "rsi14": 54.48,
@@ -772,6 +764,14 @@
       "score": 30,
       "rsi14": 45.45,
       "sk": 24.12
+    },
+    {
+      "time": "2026-06-01 10:26 UTC",
+      "direction": "NEUTRAL",
+      "price": 72650.1,
+      "score": 30,
+      "rsi14": 27.88,
+      "sk": 46.72
     }
   ]
 }
