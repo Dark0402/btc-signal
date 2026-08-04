@@ -6,14 +6,6 @@
   "last_alerted_dir": "NEUTRAL",
   "history": [
     {
-      "time": "2026-08-01 19:28 UTC",
-      "direction": "LONG",
-      "price": 62519.3,
-      "score": 40,
-      "rsi14": 25.2,
-      "sk": 40.07
-    },
-    {
       "time": "2026-08-01 19:59 UTC",
       "direction": "LONG",
       "price": 62497.5,
@@ -772,6 +764,14 @@
       "score": 15,
       "rsi14": 41.98,
       "sk": 59.16
+    },
+    {
+      "time": "2026-08-04 23:11 UTC",
+      "direction": "NEUTRAL",
+      "price": 64378.3,
+      "score": 15,
+      "rsi14": 51.37,
+      "sk": 49.08
     }
   ]
 }
