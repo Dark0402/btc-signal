@@ -1,18 +1,10 @@
 {
   "direction": "NEUTRAL",
-  "score": 25,
+  "score": 10,
   "since": null,
   "last_alerted_ts": 1787280540.350068,
   "last_alerted_dir": "NEUTRAL",
   "history": [
-    {
-      "time": "2026-08-18 11:03 UTC",
-      "direction": "NEUTRAL",
-      "price": 64275.2,
-      "score": 15,
-      "rsi14": 55.15,
-      "sk": 41.87
-    },
     {
       "time": "2026-08-18 11:42 UTC",
       "direction": "SHORT",
@@ -772,6 +764,14 @@
       "score": 25,
       "rsi14": 65.41,
       "sk": 56.67
+    },
+    {
+      "time": "2026-08-21 05:17 UTC",
+      "direction": "NEUTRAL",
+      "price": 75325.9,
+      "score": 10,
+      "rsi14": 55.06,
+      "sk": 50.65
     }
   ]
 }
